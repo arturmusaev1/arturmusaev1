@@ -50,18 +50,14 @@
 
 ## 📈 GitHub Статистика
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ВашеИмяПользователя&show_icons=true&theme=radical)
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=evildre&show_icons=true&theme=radical)
 
-![Популярные языки](https://github-readme-stats.vercel.app/api/top-langs/?username=ВашеИмяПользователя&layout=compact&theme=radical)
+![Популярные языки](https://github-readme-stats.vercel.app/api/top-langs/?username=evildre&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Контакты
 
-- 📧 Email: [ВашEmail@example.com](mailto:ВашEmail@example.com)
-- 💼 LinkedIn: [ВашLinkedIn](https://linkedin.com/in/ВашПрофиль)
-- 🌐 Портфолио: [ВашСайт](https://ВашСайт.com)
+- 📧 Email: [musaew97@gmail.com](mailto:musaew97@gmail.com)
 
 ---
-
-⭐️ _Не забудьте поставить звёздочку проектам, которые вам понравились!_
