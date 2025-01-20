@@ -50,7 +50,7 @@
 
 - **[Проекты Яндекс.Практикума](https://github.com/evildre/YandexPracticumProjects)**  
   *Описание:* Сборник проектов, выполненных в рамках курса "Специалист по Data Science" от Яндекс.Практикума.  
-  *Технологии:* Python, Pandas, Scikit-Learn, TensorFlow, Keras, ResNet50, BERT.
+  *Технологии:* Python, Pandas, Scikit-Learn, TensorFlow, Keras, ResNet50, BERT, CatBoost, XGBoost, LightGBM, Matplotlib, seaborn.
 
 ## 🥇 Достижения
   
