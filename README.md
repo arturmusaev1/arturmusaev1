@@ -41,7 +41,7 @@
   *Технологии:* Python, NumPy, Matplotlib.
 
 - **[Проект по переименованию зданий в Санкт-Петербурге](https://github.com/moevm/nosql2h24-rename)**  
-  *Описание:* Проект, связанный с переименованием сущностей в базе данных Neo4j.  
+  *Описание:* Работа с сущностями в Neo4j.  
   *Технологии:* Python, TypeScript, Docker, Neo4j, PostgreSQL.
 
  - **Проект YOLO**  
