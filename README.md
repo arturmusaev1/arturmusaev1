@@ -71,14 +71,6 @@
 
 ---
 
-## 📈 GitHub Статистика
-
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=evildre&show_icons=true&theme=radical)
-
-![Популярные языки](https://github-readme-stats.vercel.app/api/top-langs/?username=evildre&layout=compact&theme=radical)
-
----
-
 ## 📫 Контакты
 
 - 📧 Email: [musaew97@gmail.com](mailto:musaew97@gmail.com)
