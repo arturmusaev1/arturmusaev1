@@ -62,12 +62,12 @@
 
 - **Tech Day с Инженерно-математической школой НИУ ВШЭ и VK: хакатон по обработке естественного языка**  
   Занял 2 место на хакатоне Tech Day с Инженерно-математической школой НИУ ВШЭ и VK: хакатон по обработке естественного языка.   
-  *Сертификат:* [PDF](https://github.com/evildre/achievements/blob/main/TechDay-2024.pdf)  
+  *Диплом:* [PDF](https://github.com/evildre/achievements/blob/main/TechDay-2024.pdf)  
   *Технологии:* CatBoost, Bert.
 
 - **Яндекс Практикум: Специалист по Data-Science**  
   Закончил курс Яндекс Практикум - Специалист по Data-Science.   
-  *Диплом:* [PDF](https://github.com/evildre/achievements/blob/main/Сертификат.pdf)  
+  *Сертификат:* [PDF](https://github.com/evildre/achievements/blob/main/Сертификат.pdf)  
 
 ---
 
