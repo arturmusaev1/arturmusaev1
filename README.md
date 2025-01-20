@@ -67,7 +67,7 @@
 
 - **Яндекс Практикум: Специалист по Data-Science**  
   Закончил курс Яндекс Практикум - Специалист по Data-Science.   
-  *Сертификат:* [PDF](https://github.com/evildre/achievements/blob/main/Сертификат.pdf)  
+  *Сертификат:* [PDF](https://github.com/evildre/achievements/blob/main/Сертификат.pdf)
 
 ---
 
