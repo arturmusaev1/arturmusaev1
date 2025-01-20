@@ -68,7 +68,9 @@
 - **Яндекс Практикум: Специалист по Data-Science**  
   Закончил курс Яндекс Практикум - Специалист по Data-Science.   
   *Сертификат:* [PDF](https://github.com/evildre/achievements/blob/main/Сертификат.pdf)
+## - Опыт работы:
 
+- <a href="https://2.shkolkovo.online/"><img width="15" src="https://github.com/general9k/readme/blob/main/img/share_link.png?raw=true" alt = "Shkolkovo"></a> Школково (2021 - 2024) Куратор по информатике
 ---
 
 ## 📫 Контакты
