@@ -30,7 +30,9 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github)
-
+![CatBoost](https://img.shields.io/badge/-CatBoost-333?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/-XGBoost-333?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/-LightGBM-333?style=for-the-badge)
 ---
 
 ## 📂 Проекты
