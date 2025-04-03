@@ -12,28 +12,6 @@
 
 ---
 
-## Технологии и инструменты
-
-![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
-![MATLAB](https://img.shields.io/badge/-MATLAB-333?style=for-the-badge&logo=mathworks)
-![Pandas](https://img.shields.io/badge/-Pandas-333?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-333?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=for-the-badge&logo=matplotlib)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333?style=for-the-badge&logo=scikit-learn)
-![YOLO](https://img.shields.io/badge/-YOLO-333?style=for-the-badge&logo=yolo)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=for-the-badge&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-333?style=for-the-badge&logo=keras)
-![BERT](https://img.shields.io/badge/-BERT-333?style=for-the-badge&logo=bert)
-![ResNet50](https://img.shields.io/badge/-ResNet50-333?style=for-the-badge)
-![Neo4j](https://img.shields.io/badge/-Neo4j-333?style=for-the-badge&logo=neo4j)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github)
-![CatBoost](https://img.shields.io/badge/-CatBoost-333?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/-XGBoost-333?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/-LightGBM-333?style=for-the-badge)
----
-
 ## 📂 Проекты
 
 - **[Решение задачи о рюкзаке с помощью генетического алгоритма](https://github.com/arturmusaev1/Summer_Practice)**  
